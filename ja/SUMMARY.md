@@ -1,7 +1,7 @@
 # 目次
 
-* [README](README.md)
-* [ヘッダ](0x00-Header.md)
+* [コンテナセキュリティ検証標準 README](README.md)
+* [コンテナセキュリティ検証標準 ヘッダ](0x00-Header.md)
 * [扉](0x01-Frontispiece.md)
 * [序文](0x02-Preface.md)
 * [CSVS の使い方](0x03-Using-CSVS.md)
