@@ -2,9 +2,11 @@
 
 This is the unofficial Japanese translation of the [OWASP Container Security Verification Standard](https://github.com/OWASP/Container-Security-Verification-Standard).
 
+- Document Site - <https://coky-t.gitbook.io/owasp-csvs-ja/>
+- Document Repository - <https://github.com/coky-t/owasp-csvs-ja>
+
 ### Originator
 
-- Project Site - <https://owasp.org/www-project-container-security-verification-standard/>
 - Project Repository - <https://github.com/OWASP/www-project-container-security-verification-standard>
 - Document Repository - <https://github.com/OWASP/Container-Security-Verification-Standard>
 
@@ -41,3 +43,6 @@ This is the unofficial Japanese translation of the [OWASP Container Security Ver
 ## Translator (Japanese)
 
 [Koki Takeyama](https://github.com/coky-t)
+
+- Document Site - <https://coky-t.gitbook.io/owasp-docs-ja/>
+- Document Repository - <https://github.com/coky-t/owasp-docs-ja>
